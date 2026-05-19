@@ -44,8 +44,7 @@ This project started with a prompt-generated poster and was later transformed in
 
 ## Preview
 
-(Add screenshots or GIF here later)
-
+![Ghibli Cinematic Preview](Ghibli_gif.gif)
 ---
 
 ## Author
