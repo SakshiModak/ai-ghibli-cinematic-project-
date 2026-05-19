@@ -1,0 +1,18 @@
+Poster prompt:
+
+Hi, I want to have a Ghibli movie Marathon night on Saturday with friends and relax. you're a designer, 
+help me design an interesting home invite.
+instruction:
+I want this to express the theme of the party.
+Background should represent the magical jungle with fireflies and the characters of Ghibli movie's, 
+mention "this Saturday, 6 pm onwards" on the invite with nice little quotes. 
+add a little old movie film projector to the side.
+i want this to be A4 side.
+
+Video Prompt:
+
+hi, i have given you an attachment that shows you the invite of the movie night I'm hosting. 
+i want you to pick the style and ethos and create a video invite with some really interesting elements 
+like the fireflies moving around, light twinkling, characters blinking there eyes,
+ghosts on the trees swinging their legs, movie reel moving, and things like that.
+get creative and give me a 16 is to 9 video that i could use to send to my friends for the party
