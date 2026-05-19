@@ -27,7 +27,7 @@ This project started with a prompt-generated poster and was later transformed in
 
 ## Preview
 
-![Ghibli Cinematic Preview](preview.gif)
+![Ghibli Cinematic Preview](Ghibli_gif.gif)
 
 ---
 
